@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: Simulation Settings
   m_EditorClassIdentifier: 
   timeScale: 1
-  kmPerWorldUnit: 1000
   predictionsLeadTime: 10
+  gravityConstant: 0.03
